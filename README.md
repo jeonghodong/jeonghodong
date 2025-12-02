@@ -1,6 +1,6 @@
 <!-- # Hi, I'm Hodong Jeong -->
 
-<!-- ### Product Engineer -->
+<!-- ### Product / Frontend Engineer -->
 
 ## Product Engineer
 
