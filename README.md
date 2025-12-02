@@ -2,7 +2,7 @@
 
 <!-- ### Product / Frontend Engineer -->
 
-## Product Engineer
+## Product / Frontend Engineer
 
 I connect tech to impact.
 
